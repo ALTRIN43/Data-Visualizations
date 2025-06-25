@@ -1,0 +1,8 @@
+Folium maps use interactive Leaflet.js-based HTML, and GitHub renders .ipynb notebooks as static previews using their own renderer. That means:
+
+Interactive outputs (like Folium maps) don’t render on GitHub.
+
+Only static outputs (like printed text, matplotlib plots) are visible.
+
+so, Try run the code on ur PC then get the output :)
+
